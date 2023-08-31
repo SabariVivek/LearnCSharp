@@ -1,0 +1,11 @@
+﻿String
+	* It is a class used to access string variables and formatting methods.
+	* We have to import String from the System.String module.
+	* It is a data type.
+	* It contains different types of methods, properties, etc.
+
+string
+	* It is a keyword used to create a string variable.
+	* There is no need to import any module for string.
+	* It is a keyword.
+	* It is just an alias of the System.String.
